@@ -1,0 +1,15 @@
+=== WEREWOLF GAME RESULT ===
+Winner: Werewolves
+Total Rounds: 4
+
+--- Surviving Players ---
+Charlie (Villager)
+Grace (Werewolf)
+
+--- Eliminated Players (in order) ---
+Alice
+Emma
+Frank
+Henry
+Bob
+David
