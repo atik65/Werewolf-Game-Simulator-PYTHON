@@ -3,13 +3,13 @@ Winner: Werewolves
 Total Rounds: 3
 
 -- Surviving Players --
-Hasan (Villager)
-Shamima (Werewolf)
+Hasan (Werewolf)
+Kamal (Villager)
 
 -- Eliminated Players (in order) --
-Kamal
-Ayesha
-Fatima
-Jahid
 Rafiq
+Ayesha
+Shamima
+Fatima
 Nasrin
+Jahid
